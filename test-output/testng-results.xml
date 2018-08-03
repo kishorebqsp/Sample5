@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="70447" started-at="2018-08-03T05:27:05Z" finished-at="2018-08-03T05:28:16Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="70447" started-at="2018-08-03T05:27:05Z" finished-at="2018-08-03T05:28:16Z">
+      <class name="scripts.Selectthedressfromwhislist">
+        <test-method status="PASS" signature="openapp()[pri:0, instance:scripts.Selectthedressfromwhislist@69b0fd6f]" name="openapp" is-config="true" duration-ms="14061" started-at="2018-08-03T05:27:36Z" finished-at="2018-08-03T05:27:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:scripts.Selectthedressfromwhislist@69b0fd6f]" name="testcase2" duration-ms="8296" started-at="2018-08-03T05:27:50Z" finished-at="2018-08-03T05:27:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method status="PASS" signature="closeapp()[pri:0, instance:scripts.Selectthedressfromwhislist@69b0fd6f]" name="closeapp" is-config="true" duration-ms="600" started-at="2018-08-03T05:27:59Z" finished-at="2018-08-03T05:27:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- scripts.Selectthedressfromwhislist -->
+      <class name="scripts.Invalidlogin">
+        <test-method status="PASS" signature="openapp()[pri:0, instance:scripts.Invalidlogin@757942a1]" name="openapp" is-config="true" duration-ms="12510" started-at="2018-08-03T05:27:59Z" finished-at="2018-08-03T05:28:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method status="PASS" signature="testcase3()[pri:0, instance:scripts.Invalidlogin@757942a1]" name="testcase3" duration-ms="3498" started-at="2018-08-03T05:28:12Z" finished-at="2018-08-03T05:28:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method status="PASS" signature="closeapp()[pri:0, instance:scripts.Invalidlogin@757942a1]" name="closeapp" is-config="true" duration-ms="436" started-at="2018-08-03T05:28:15Z" finished-at="2018-08-03T05:28:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- scripts.Invalidlogin -->
+      <class name="scripts.Validlogin">
+        <test-method status="PASS" signature="openapp()[pri:0, instance:scripts.Validlogin@462d5aee]" name="openapp" is-config="true" duration-ms="20596" started-at="2018-08-03T05:27:05Z" finished-at="2018-08-03T05:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:scripts.Validlogin@462d5aee]" name="testcase1" duration-ms="9730" started-at="2018-08-03T05:27:26Z" finished-at="2018-08-03T05:27:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="closeapp()[pri:0, instance:scripts.Validlogin@462d5aee]" name="closeapp" is-config="true" duration-ms="656" started-at="2018-08-03T05:27:36Z" finished-at="2018-08-03T05:27:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- scripts.Validlogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
